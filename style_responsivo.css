@@ -1,0 +1,649 @@
+@media only screen/*vit@media only screen/*vituriano*/
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+/* Styles */
+	#fonteNahas{
+		font-family: Arial;
+		font-size:27px;
+	}
+	#fonta{
+		font-family: Arial;
+		font-size: 27px;
+	}
+	#tabelaQuestionario{
+		font-family: Arial;
+		font-size: 40px;
+		text-align: center;
+		width: 100%;
+		padding: 1px;
+	}
+	#tdpergunta{
+		width: 10%;
+	}
+	input[type=radio]{
+		border: 1px;
+		width: 90px;
+		height: 90px;
+	}
+	#cabecaDaTabela{
+		font-size: 30px;
+	}
+}
+/* Smartphones (landscape) ———– */
+@media only screen and (max-width : 400px){
+/* Styles */
+	#fonteNahas{
+		font-family: Arial;
+		font-size:27px;
+	}
+	#fonta{
+		font-family: Arial;
+		font-size: 27px;
+	}
+	#tabelaQuestionario{
+		font-family: Arial;
+		font-size: 40px;
+		text-align: center;
+		width: 100%;
+		padding: 1px;
+	}
+	#tdpergunta{
+		width: 10%;
+	}
+	input[type=radio]{
+		border: 1px;
+		width: 80px;
+		height: 80px;
+	}
+	#cabecaDaTabela{
+		font-size: 30px;
+	}
+	#tabelaa{
+		font-size: 300000px;
+		font-family: Arial;
+		height: 80px;
+		width: 90px;
+	}
+	
+}
+/* Smartphones (portrait) ———– */
+@media only screen/*fernanda*/
+and (max-width : 320px) {
+/* Styles */
+	/*#fonteNahas{
+		font-family: Arial;
+		font-size:27px;
+	}
+	#fonta{
+		font-family: Arial;
+		font-size: 27px;
+	}
+	#tabelaQuestionario{
+		font-family: Arial;
+		font-size: 40px;
+		text-align: center;
+		width: 100%;
+		padding: 1px;
+	}
+	#tdpergunta{
+		width: 10%;
+	}
+	input[type=radio]{
+		border: 1px;
+		width: 80px;
+		height: 80px;
+	}
+	#cabecaDaTabela{
+		font-size: 30px;
+	}*/
+}
+
+/* iPads (portrait and lanscape) ———– */
+@media only screen/*miguel*/
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : portrait)
+and (orientation : landscape) {
+/* Styles */
+	#tudo{
+		font-family: Arial;
+		font-size: 30px;
+	}
+	#fonta{
+		font-family: Arial;
+		font-size: 27px;
+	}
+	#tabelaQuestionario{
+		font-family: Arial;
+		font-size: 30px;
+		text-align: center;
+		width: 100%;
+		padding: 1px;
+	}
+	#tabelaQuestionario1{
+		font-family: Arial;
+		font-size: 30px;
+		text-align: center;
+		width: 100%;
+		padding: 1px;
+	}
+	#tdpergunta{
+		width: 10%;
+	}
+	input[type=radio]{
+		border: 1px;
+		width: 20px;
+		height: 20px;
+	}
+	#cabecaDaTabela{
+		font-size: 30px;
+	}
+	
+	.botao01{
+     background: -webkit-linear-gradient(bottom,#4CAF50,#4CAF50 80%);
+     background: -moz-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -o-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -ms-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     border: 1px solid #CCCCCE;
+     border-radius: 3px;
+     color: #FFFFFF;
+     display: block;
+     font-family: "Trebuchet MS";
+     font-size: 14px;
+     font-weight: bold;
+     line-height: 10px;
+     text-align: center;
+     text-decoration: none;
+     text-transform: uppercase;
+     text-shadow:0px 0px 0 #FFF;
+     padding: 15px 20px;
+     position: relative;
+     width: 120px;
+    }
+	.botao01:hover {
+	background: -webkit-linear-gradient(bottom, #4CAF50, #90CE93 90%);
+	cursor: pointer;
+	}
+	
+	/*Alimenta 2*/
+	#tabelg{
+		font-family: Arial;
+		font-size: 30px;
+	}
+	#tabelaa{
+		font-size: 300px;
+		font-family: Arial;
+		height: 80px;
+		width: 90px;
+	}
+	#tabela table{
+		text-align: justify;
+		height: 7000px;
+		width: 45000px;
+		border-radius: 5px;
+		box-shadow: 2px 10px 50px 0px #A8A8A8 ;
+	}
+	#cadastro{
+		font-family: Arial;
+		font-size: 30px;
+	}
+}
+/* Desktops and laptops ———– */
+@media only screen/*nicolas*/
+and (min-width : 1224px) {
+/* Styles */
+	#fonteNahas{
+		font-family: Arial;
+		font-size:27px;
+	}
+	#fonta{
+		font-family: Arial;
+		font-size: 27px;
+	}
+	#tabelaQuestionario{
+		font-family: Arial;
+		font-size: 40px;
+		text-align: center;
+		width: 100%;
+		padding: 1px;
+	}
+	#tdpergunta{
+		width: 10%;
+	}
+	input[type=radio]{
+		border: 1px;
+		width: 30px;
+		height: 30px;
+	}
+	#cabecaDaTabela{
+		font-size: 30px;
+	}
+}
+/* Desktops and laptops codigo 2 (to testando no netbook que eu to usando) ———– */
+@media only screen/*nicolas*/
+and (min-width : 1024px) {
+/* Styles */
+	#tudo{
+		font-family: Arial;
+		font-size: 15px;
+	}
+	#fonteNahas{
+		font-family: Arial;
+		font-size:10px;
+	}
+	#fonta{
+		font-family: Arial;
+		font-size: 27px;
+	}
+	#tabelaQuestionario{
+		font-family: Arial;
+		font-size: 13px;
+		text-align: auto;
+		width: 100%;
+		padding: 1px;
+	}
+	#tdpergunta{
+		width: 10%;
+	}
+	input[type=radio]{
+		border: 1px;
+		width: 20px;
+		height: 20px;
+	}
+	#cabecaDaTabela{
+		font-size: 30px;
+	}
+}
+/* Large screens ———– */
+@media only screen/*nicolas*/
+and (min-width : 1824px) {
+/* Styles */
+}
+/* iPhone 4 ———– */
+@media/*Waleska*/
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+/* Styles */
+	/*Alimenta1*/
+	
+	/*essa parte ta com o miguel*/#tudo{
+	font-family: Arial;
+	font-size: 27px;
+	}
+	#fonta{
+		font-family: Arial;
+		font-size: 40px;
+	}
+	#tabelaQuestionaro{
+		font-family: Arial;
+		font-size: 27px;
+		text-align: center;
+		width: 100%;
+		padding: 1px;
+	}
+	#tabelaQuestionaro{
+		font-family: Arial;
+		font-size: 27px;
+		text-align: center;
+		width: 100%;
+		padding: 1px;
+	}
+	#tdpergunta{
+		width: 10%;
+	}
+	input[type=radio]{
+		border: 1px;
+		width: 40px;
+		height: 40px;
+	}
+	#cabecaDaTabela{
+		font-size: 30px;
+	}
+}
+@media print {
+	* {
+		visibility:hidden;
+	}
+	/*figure {
+		visibility:visible;
+		
+	}*/
+	#inua {
+		visibility:visible;
+        position: absolute;
+
+		top:150px;
+		right:30px;
+	}
+}
+	#pentaculo {
+		
+		display:inline-block;
+		text-decoration:none;
+		padding: 50px 15px;
+		border:1px solid #ccc;
+        background: -webkit-linear-gradient(bottom,#4CAF50,#4CAF50 80%);
+		background: -moz-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+		background: -o-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+		background: -ms-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+		background: linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+		color:#FFF;
+		font:15px arial, sans-serif;
+		text-shadow:0px 0px 0 #FFF;
+		font-family: "Trebuchet MS";
+		font-size: 14px;
+		font-weight: bold;
+		line-height: 10px;
+		text-align: center;
+		text-decoration: none;
+		border-radius:30px
+	}
+html, body{
+    margin: 0;
+    padding: 0;
+	background:rgb(255,255,255);
+}
+#back{
+	background:rgb(82,82,82);
+}
+a{
+    display:inline-block;
+    text-decoration:none;
+    padding: 15px 15px;
+    border:1px solid #ccc;
+         background: -webkit-linear-gradient(bottom,#4CAF50,#4CAF50 80%);
+     background: -moz-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -o-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -ms-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+    color:#FFF;
+    font:15px arial, sans-serif;
+	text-shadow:0px 0px 0 #FFF;
+     font-family: "Trebuchet MS";
+     font-size: 14px;
+     font-weight: bold;
+     line-height: 10px;
+     text-align: center;
+     text-decoration: none;
+	 
+}
+a:hover{
+	background: -webkit-linear-gradient(bottom, #4CAF50, #90CE93 90%);
+	cursor: pointer;
+}
+
+#tudo{
+	background-color: #FFFFFF;
+	width: 63%;
+	min-width: 1160px;
+    margin: auto;
+	height:auto;
+}
+
+#cabeca {
+    width: 100%;        
+    margin-bottom: 2%;
+    text-align:center;
+    background-color:;    
+    color: #6A6161;
+    padding:5px;
+}
+
+#conteudo {
+    padding-bottom: 50px;
+    padding-left: 9%;
+    width:80%;
+	height:auto;
+}
+
+#conteudoo {
+
+	height:auto;
+}
+
+
+#rodape table{
+    font-size: 13px;
+    color: #6A6161;
+    margin-top: 6%;
+    width: auto;
+	border:none;
+	text-align:center
+}
+
+#localdata{
+    text-align: right;
+}
+
+#continuar{
+    text-align: center;
+    border-radius: 50px;
+}
+
+table{
+    font-align: center;
+    border-color: #F2F2F2;
+	background-color: white;
+}
+
+#cinza{
+	background: rgb(220, 220, 220);
+}
+p, li{
+    text-align: justify;
+}
+
+h2{
+    text-align: center;
+}
+
+img{
+    border-radius: 30px;
+	width: 95%;
+}
+#emoji img{
+    border-radius: 30px;
+	width: 50px;
+	height: 50px;
+}
+
+#numeracao{
+    text-align: right;
+    font-size: 14px;
+    font-family: cursive;
+	
+}
+#fonta{
+	font-family:"Helvetica 25 Thin";
+	font-size: 22px;
+}
+#fonto{
+	font-family:"Arial";
+	font-size: 24px;
+	text-align: justify;
+}
+#mensagem{
+    font-size: 30px;
+    text-align: center;
+}
+	.botao01{
+     background: -webkit-linear-gradient(bottom,#4CAF50,#4CAF50 80%);
+     background: -moz-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -o-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -ms-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     border: 1px solid #CCCCCE;
+     border-radius: 3px;
+     color: #FFFFFF;
+     display: block;
+     font-family: "Trebuchet MS";
+     font-size: 14px;
+     font-weight: bold;
+     line-height: 10px;
+     text-align: center;
+     text-decoration: none;
+     text-transform: uppercase;
+     text-shadow:0px 0px 0 #FFF;
+     padding: 15px 20px;
+     position: relative;
+     width: 120px;
+    }
+	.botao01:hover {
+	background: -webkit-linear-gradient(bottom, #4CAF50, #90CE93 90%);
+	cursor: pointer;
+	}
+	.hi{
+     background: -webkit-linear-gradient(bottom,#4CAF50,#4CAF50 80%);
+     background: -moz-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -o-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -ms-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     border: 1px solid #CCCCCE;
+     border-radius: 3px;
+     color: #FFFFFF;
+     display: block;
+     font-family: "Trebuchet MS";
+     font-size: 14px;
+     font-weight: bold;
+     line-height: 10px;
+     text-align: center;
+     text-decoration: none;
+     text-transform: uppercase;
+     text-shadow:0px 0px 0 #FFF;
+     padding: 15px 20px;
+     position: relative;
+     width: 120px;
+    }
+	.hi:hover {
+	background: -webkit-linear-gradient(bottom, #4CAF50, #90CE93 90%);
+	cursor: pointer;
+	}
+		.nao{
+     background: -webkit-linear-gradient(bottom,#4CAF50,#4CAF50 80%);
+     background: -moz-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -o-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -ms-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     border: 1px solid #CCCCCE;
+     border-radius: 3px;
+     color: #FFFFFF;
+     display: block;
+     font-family: "Trebuchet MS";
+     font-size: 15px;
+     font-weight: bold;
+     line-height: 10px;
+     text-align: center;
+     text-decoration: none;
+     text-transform: uppercase;
+     text-shadow:0px 0px 0 #FFF;
+     padding: 15px 20px;
+     position: relative;
+     width: 150px;
+    }
+	.nao:hover {
+	background: -webkit-linear-gradient(bottom, #4CAF50, #90CE93 90%);
+	cursor: pointer;
+	}
+	
+#direita{
+    font-size: 18px;
+    text-align: right;
+
+}
+
+#tabela table{
+text-align: justify;
+height: 70px;
+width: 450px;
+border-radius: 5px;
+box-shadow: 2px 10px 50px 0px #A8A8A8 ;
+
+}
+#tabelaa table{
+text-align: justify;
+height: 70px;
+width: 650px;
+border-radius: 5px;
+box-shadow: 2px 10px 50px 0px #A8A8A8 ;
+
+}
+#tabelg table{
+text-align: justify;
+height: 70px;
+width: 650px;
+}
+#tabelp table{
+text-align: justify;
+height: 20px;
+width: 650px;
+background-color: rgba(255,255,255,0.0);
+
+}
+
+#tabelaQuestionario table{
+text-align: justify;
+height: auto;
+width: auto;
+border-radius: 5px;
+box-shadow: 0px 0px 45px -5px #A8A8A8 ;
+}
+	.sair{
+     background: -webkit-linear-gradient(bottom,#4CAF50,#4CAF50 80%);
+     background: -moz-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -o-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -ms-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     border: 1px solid #CCCCCE;
+     border-radius: 3px;
+     color: #FFFFFF;
+     display: block;
+     font-family: "Trebuchet MS";
+     font-size: 16px;
+     font-weight: bold;
+     line-height: 10px;
+     text-align: center;
+     text-decoration: none;
+     text-transform: uppercase;
+     text-shadow:0px 0px 0 #FFF;
+     padding: 15px 5px;
+     position: relative;
+     width: 120px;
+    }
+	.sair:hover {
+	background: -webkit-linear-gradient(bottom, #4CAF50, #90CE93 90%);
+	cursor: pointer;
+	}
+		.inicio{
+     background: -webkit-linear-gradient(bottom,#4CAF50,#4CAF50 80%);
+     background: -moz-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -o-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: -ms-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     background: linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+     border: 1px solid #CCCCCE;
+     border-radius: 3px;
+     color: #FFFFFF;
+     display: block;
+     font-family: "Trebuchet MS";
+     font-size: 16px;
+     font-weight: bold;
+     line-height: 10px;
+     text-align: center;
+     text-decoration: none;
+     text-transform: uppercase;
+     text-shadow:0px 0px 0 #FFF;
+     padding: 20px 10px;
+     position: relative;
+     width: 200px;
+    }
+	.inicio:hover {
+	background: -webkit-linear-gradient(bottom, #4CAF50, #90CE93 90%);
+	cursor: pointer;
+	}
+#corb{
+	color: rgb(255, 255, 255);
+}
+#corc{
+	color: rgb(220, 220, 220);
+}	
+#tabelaresponsivo{};
